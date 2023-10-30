@@ -1,0 +1,1368 @@
+{
+  "ReportVersion": "2023.4.2.0",
+  "ReportGuid": "ac51fd92a3b0480cbabdd8e8be610da2",
+  "ReportName": "Report",
+  "ReportAlias": "Report",
+  "ReportCreated": "/Date(1698313672978+0000)/",
+  "ReportChanged": "/Date(1698326382000+0300)/",
+  "ReportImage": "",
+  "Pages": {
+    "0": {
+      "Ident": "StiFormContainer",
+      "Content": {
+        "Pages": [{
+            "Guid": "886d4374-4d81-ab48-7a4f-285e97b6e87f",
+            "Margins": {
+              "Left": 39,
+              "Top": 39,
+              "Right": 39,
+              "Bottom": 39
+            },
+            "PaperKind": {
+              "Guid": "c1ae1eda-0020-91fe-d0e9-27c164c54d47",
+              "Kind": "A4"
+            },
+            "BackgroundColor": "255,255,255,255",
+            "Visible": true,
+            "Elements": [{
+                "Type": "LabelElement",
+                "Guid": "075aed2b-1c75-9b6c-2ed4-12d1b3d3c7f7",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 0,
+                  "Right": 0,
+                  "Bottom": 0
+                },
+                "Geometry": {
+                  "X": 385.56,
+                  "Y": 75,
+                  "Width": 330.44000000000005,
+                  "Height": 40,
+                  "MinWidth": 165.24,
+                  "MinHeight": 25,
+                  "MaxWidth": 330.44000000000005,
+                  "MaxHeight": 40
+                },
+                "Name": "Label3",
+                "Text": {
+                  "Value": "ORDER DETAILS",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "BackgroundColor": "Transparent",
+                  "HorizontalAlignment": "Left",
+                  "VerticalAlignment": "Center"
+                },
+                "Border": {
+                  "Pen": {
+                    "Color": "DimGray",
+                    "Style": "Solid",
+                    "Width": 1
+                  },
+                  "DrawLeft": false,
+                  "DrawTop": false,
+                  "DrawRight": false,
+                  "DrawBottom": false
+                },
+                "ExceededMargins": "None"
+              },{
+                "Type": "LabelElement",
+                "Guid": "11bafe52-3446-d50d-8833-4748ab8d7ee4",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 0,
+                  "Top": 0,
+                  "Right": 0,
+                  "Bottom": 0
+                },
+                "Geometry": {
+                  "X": 220.32,
+                  "Y": 365,
+                  "Width": 275.4,
+                  "Height": 25,
+                  "MinWidth": 165.24,
+                  "MinHeight": 25,
+                  "MaxWidth": 275.4,
+                  "MaxHeight": 25
+                },
+                "Name": "Label4",
+                "Text": {
+                  "Value": "ORDER DETAILS",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "BackgroundColor": "Transparent",
+                  "HorizontalAlignment": "Center",
+                  "VerticalAlignment": "Center"
+                },
+                "Border": {
+                  "Pen": {
+                    "Color": "DimGray",
+                    "Style": "Solid",
+                    "Width": 1
+                  },
+                  "DrawLeft": false,
+                  "DrawTop": false,
+                  "DrawRight": false,
+                  "DrawBottom": false
+                },
+                "ExceededMargins": "None"
+              },{
+                "Type": "LabelElement",
+                "Guid": "899f695b-a5ac-d52c-5c6b-7fb96b4826cb",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 0,
+                  "Right": 0,
+                  "Bottom": 0
+                },
+                "Geometry": {
+                  "X": 0,
+                  "Y": 75,
+                  "Width": 330.47999999999996,
+                  "Height": 40,
+                  "MinWidth": 220.32,
+                  "MinHeight": 25,
+                  "MaxWidth": 330.47999999999996,
+                  "MaxHeight": 40
+                },
+                "Name": "Label2",
+                "Text": {
+                  "Value": "CUSTOMER DETAILS",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "BackgroundColor": "Transparent",
+                  "HorizontalAlignment": "Left",
+                  "VerticalAlignment": "Center"
+                },
+                "Border": {
+                  "Pen": {
+                    "Color": "DimGray",
+                    "Style": "Solid",
+                    "Width": 1
+                  },
+                  "DrawLeft": false,
+                  "DrawTop": false,
+                  "DrawRight": false,
+                  "DrawBottom": false
+                },
+                "ExceededMargins": "None"
+              },{
+                "Type": "LabelElement",
+                "Guid": "58f8d4b2-8c73-7e01-179e-01c800f98945",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 0,
+                  "Top": 0,
+                  "Right": 0,
+                  "Bottom": 0
+                },
+                "Geometry": {
+                  "X": 0,
+                  "Y": 0,
+                  "Width": 716,
+                  "Height": 75,
+                  "MinWidth": 550.8,
+                  "MinHeight": 65,
+                  "MaxWidth": 716,
+                  "MaxHeight": 75
+                },
+                "Name": "Label",
+                "Text": {
+                  "Value": "Custom Order Form",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 36,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "BackgroundColor": "Transparent",
+                  "HorizontalAlignment": "Center",
+                  "VerticalAlignment": "Center"
+                },
+                "Border": {
+                  "Pen": {
+                    "Color": "DimGray",
+                    "Style": "Solid",
+                    "Width": 1
+                  },
+                  "DrawLeft": false,
+                  "DrawTop": false,
+                  "DrawRight": false,
+                  "DrawBottom": false
+                },
+                "ExceededMargins": "None"
+              },{
+                "Type": "TextBoxElement",
+                "Guid": "ba8172f5-1c76-ff7f-ef94-51a5736ae136",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 0,
+                  "Y": 115,
+                  "Width": 330.48,
+                  "Height": 45,
+                  "MinWidth": 165.24,
+                  "MinHeight": 40,
+                  "MaxWidth": 330.48,
+                  "MaxHeight": 45
+                },
+                "Name": "CustomerName",
+                "Label": {
+                  "Value": "NAME",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Left",
+                  "VerticalAlignment": "Center",
+                  "Width": 92
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "Font": {
+                  "Family": "Arial",
+                  "Size": 12,
+                  "Style": "Regular"
+                },
+                "Text": "",
+                "BackgroundColor": "White",
+                "TextColor": "Black",
+                "ContentAlignment": "Left",
+                "Tooltip": "",
+                "Required": false,
+                "IsPassword": false,
+                "IsMultiline": false,
+                "LinesCount": 1,
+                "UseRange": false,
+                "Minimum": 0,
+                "Maximum": 255,
+                "RangeFormat": "Characters",
+                "BorderColor": "LightGray",
+                "BorderWeight": "Thin"
+              },{
+                "Type": "TextBoxElement",
+                "Guid": "40c2850e-f66c-4b4d-e359-1848a4478685",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 0,
+                  "Y": 160,
+                  "Width": 330.48,
+                  "Height": 45,
+                  "MinWidth": 165.24,
+                  "MinHeight": 40,
+                  "MaxWidth": 330.48,
+                  "MaxHeight": 45
+                },
+                "Name": "CustomerEmail",
+                "Label": {
+                  "Value": "EMAIL",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Left",
+                  "VerticalAlignment": "Center",
+                  "Width": 92
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "Font": {
+                  "Family": "Arial",
+                  "Size": 12,
+                  "Style": "Regular"
+                },
+                "Text": "",
+                "BackgroundColor": "White",
+                "TextColor": "Black",
+                "ContentAlignment": "Left",
+                "Tooltip": "",
+                "Required": false,
+                "IsPassword": false,
+                "IsMultiline": false,
+                "LinesCount": 1,
+                "UseRange": false,
+                "Minimum": 0,
+                "Maximum": 255,
+                "RangeFormat": "Characters",
+                "BorderColor": "LightGray",
+                "BorderWeight": "Thin"
+              },{
+                "Type": "TextBoxElement",
+                "Guid": "33ddaabb-e103-d234-eb70-c43e7d9c8f08",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 0,
+                  "Y": 205,
+                  "Width": 330.48,
+                  "Height": 45,
+                  "MinWidth": 165.24,
+                  "MinHeight": 40,
+                  "MaxWidth": 330.48,
+                  "MaxHeight": 45
+                },
+                "Name": "CustomerPhone",
+                "Label": {
+                  "Value": "PHONE",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Left",
+                  "VerticalAlignment": "Center",
+                  "Width": 92
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "Font": {
+                  "Family": "Arial",
+                  "Size": 12,
+                  "Style": "Regular"
+                },
+                "Text": "",
+                "BackgroundColor": "White",
+                "TextColor": "Black",
+                "ContentAlignment": "Left",
+                "Tooltip": "",
+                "Required": false,
+                "IsPassword": false,
+                "IsMultiline": false,
+                "LinesCount": 1,
+                "UseRange": false,
+                "Minimum": 0,
+                "Maximum": 255,
+                "RangeFormat": "Characters",
+                "BorderColor": "LightGray",
+                "BorderWeight": "Thin"
+              },{
+                "Type": "DateTimeBoxElement",
+                "Guid": "ad0155bf-0f8d-6df8-f708-91850f4d75c8",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 385.56,
+                  "Y": 115,
+                  "Width": 330.44,
+                  "Height": 45,
+                  "MinWidth": 275.4,
+                  "MinHeight": 40,
+                  "MaxWidth": 330.44,
+                  "MaxHeight": 45
+                },
+                "Name": "OrderDate",
+                "Label": {
+                  "Value": "ORDER DATE",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Left",
+                  "VerticalAlignment": "Center",
+                  "Width": 121
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "Font": {
+                  "Family": "Arial",
+                  "Size": 12,
+                  "Style": "Regular"
+                },
+                "BackgroundColor": "White",
+                "TextColor": "Black",
+                "Tooltip": "",
+                "DateTimeFormat": "m/d/yy h:MM tt",
+                "DateFormat": "mm/dd/yyyy",
+                "TimeFormat": "HH:MM:ss",
+                "Required": false,
+                "BorderColor": "LightGray",
+                "BorderWeight": "Thin",
+                "HorizontalAlignment": "Right",
+                "ValueType": "Date",
+                "InitialState": "Current",
+                "AllowNull": false,
+                "DateTimeValueIsNotNull": true,
+                "DateValue": "2023-09-08T10:30:00.000Z",
+                "DateValueString": "10/26/2023"
+              },{
+                "Type": "NumberBoxElement",
+                "Guid": "56d9d998-e452-c21a-5102-83f03dadd0c3",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 385.56,
+                  "Y": 160,
+                  "Width": 330.44,
+                  "Height": 40,
+                  "MinWidth": 275.4,
+                  "MinHeight": 40,
+                  "MaxWidth": 330.44,
+                  "MaxHeight": 40
+                },
+                "Name": "OrderNumber",
+                "Label": {
+                  "Value": "ORDER NUMBER",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Left",
+                  "VerticalAlignment": "Center",
+                  "Width": 154
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "Tooltip": "",
+                "Required": false,
+                "Font": {
+                  "Family": "Arial",
+                  "Size": 12,
+                  "Style": "Regular"
+                },
+                "Value": 0,
+                "AllowNegative": true,
+                "NumberType": "Decimal",
+                "ThousandSeparator": "Comma",
+                "DecimalDigits": 0,
+                "ContentAlignment": "Right",
+                "UseRange": false,
+                "Minimum": "0",
+                "Maximum": "15",
+                "RangeFormat": "Digits",
+                "UnitLabel": "#",
+                "UnitAlignment": "Prefix",
+                "UnitForeground": "Black",
+                "CurrencyLabelFormat": "Code",
+                "Currency": "USD",
+                "BackgroundColor": "White",
+                "TextColor": "Black",
+                "BorderColor": "LightGray",
+                "BorderWeight": "Thin"
+              },{
+                "Type": "DateTimeBoxElement",
+                "Guid": "bb98f651-a83e-60c9-5a02-2aaeece5ede1",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 385.56,
+                  "Y": 200,
+                  "Width": 330.44000000000005,
+                  "Height": 45,
+                  "MinWidth": 275.4,
+                  "MinHeight": 40,
+                  "MaxWidth": 330.44000000000005,
+                  "MaxHeight": 45
+                },
+                "Name": "OrderDueDate",
+                "Label": {
+                  "Value": "DUE DATE",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Left",
+                  "VerticalAlignment": "Center",
+                  "Width": 121
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "Font": {
+                  "Family": "Arial",
+                  "Size": 12,
+                  "Style": "Regular"
+                },
+                "BackgroundColor": "White",
+                "TextColor": "Black",
+                "Tooltip": "",
+                "DateTimeFormat": "m/d/yy h:MM tt",
+                "DateFormat": "mm/dd/yyyy",
+                "TimeFormat": "HH:MM:ss",
+                "Required": false,
+                "BorderColor": "LightGray",
+                "BorderWeight": "Thin",
+                "HorizontalAlignment": "Right",
+                "ValueType": "Date",
+                "InitialState": "Custom",
+                "AllowNull": false,
+                "DateTimeValueIsNotNull": true,
+                "DateValue": "2061-07-28T18:38:00.000Z",
+                "DateValueString": "07/28/2061"
+              },{
+                "Type": "TextBoxElement",
+                "Guid": "eeeaf535-30bb-e20e-8a9d-71acfb3cf20f",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 0,
+                  "Y": 390,
+                  "Width": 716,
+                  "Height": 150,
+                  "MinWidth": 55.08,
+                  "MinHeight": 150,
+                  "MaxWidth": 716,
+                  "MaxHeight": 150
+                },
+                "Name": "OrderDetails",
+                "Label": {
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Top",
+                  "VerticalAlignment": "Center",
+                  "Width": 150
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "Font": {
+                  "Family": "Arial",
+                  "Size": 12,
+                  "Style": "Regular"
+                },
+                "Text": "",
+                "BackgroundColor": "White",
+                "TextColor": "Black",
+                "ContentAlignment": "Left",
+                "Tooltip": "",
+                "Required": false,
+                "IsPassword": false,
+                "IsMultiline": true,
+                "LinesCount": 7,
+                "UseRange": false,
+                "Minimum": 0,
+                "Maximum": 255,
+                "RangeFormat": "Characters",
+                "BorderColor": "LightGray",
+                "BorderWeight": "Thin",
+                "HeightForExport": 0
+              },{
+                "Type": "AddressElement",
+                "Guid": "b427fd33-f40f-844b-19d7-259c3cf8a969",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 0,
+                  "Y": 250,
+                  "Width": 330.48,
+                  "Height": 115,
+                  "MinWidth": 220.32,
+                  "MinHeight": 110,
+                  "MaxWidth": 330.48,
+                  "MaxHeight": 115
+                },
+                "Name": "CustomerAddress",
+                "Label": {
+                  "Value": "ADDRESS",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Left",
+                  "VerticalAlignment": "Top",
+                  "Width": 92
+                },
+                "BackgroundColor": "White",
+                "TextColor": "Black",
+                "Font": {
+                  "Family": "Arial",
+                  "Size": 12,
+                  "Style": "Regular"
+                },
+                "DescriptionFont": {
+                  "Family": "Segoe UI",
+                  "Size": 9,
+                  "Style": "Regular"
+                },
+                "DescriptionColor": "Gray",
+                "BorderColor": "LightGray",
+                "StreetAddress": "",
+                "StreetAddress2": "",
+                "City": "",
+                "State": "",
+                "ZipCode": "",
+                "Country": "",
+                "StreetAddressLabel": "Street",
+                "StreetAddress2Label": "StreetAddress2",
+                "CityLabel": "City",
+                "StateLabel": "State",
+                "ZipCodeLabel": "zipCode",
+                "CountryLabel": "country",
+                "BorderWeight": "Thin",
+                "ContentAlignment": "Left",
+                "UseCity": true,
+                "UseCountry": false,
+                "UseState": true,
+                "UseStreetAddress": true,
+                "UseStreetAddress2": false,
+                "UseZipCode": false
+              },{
+                "Type": "TableElement",
+                "Guid": "ebaf2617-381d-0242-942c-6fa39b8ed6f3",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 0,
+                  "Y": 540,
+                  "Width": 716,
+                  "Height": 315,
+                  "MinWidth": 275.4,
+                  "MinHeight": 315,
+                  "MaxWidth": 716,
+                  "MaxHeight": 315
+                },
+                "Name": "OrderItems",
+                "Label": {
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Left",
+                  "VerticalAlignment": "Top",
+                  "Width": 150
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "Font": {
+                  "Family": "Arial Black",
+                  "Size": 10,
+                  "Style": "Regular"
+                },
+                "Border": {
+                  "Pen": {
+                    "Color": "DimGray",
+                    "Style": "Solid",
+                    "Width": 1
+                  },
+                  "DrawLeft": true,
+                  "DrawTop": true,
+                  "DrawRight": true,
+                  "DrawBottom": true
+                },
+                "GridLines": {
+                  "Pen": {
+                    "Color": "DimGray",
+                    "Style": "Solid",
+                    "Width": 1
+                  },
+                  "DrawHorizontal": true,
+                  "DrawVertical": true
+                },
+                "BackgroundColor": "White",
+                "AlternateRowColors": false,
+                "EvenRowsStyle": "255,249,249,249",
+                "EvenRowsTextColor": "Black",
+                "OddRowsStyle": "255,243,243,243",
+                "OddRowsTextColor": "Black",
+                "TableHeaderHeight": 0,
+                "TableHeaderText": "",
+                "TableHeaderAlignment": "Left",
+                "TableHeaderColor": "Black",
+                "TableHeaderBackgroundColor": "Transparent",
+                "ShowRowLabels": false,
+                "RowLabels": [1,2,3,"",""],
+                "RowLabelsHorizontalAlignment": "Left",
+                "RowHeadersBackground": "Transparent",
+                "RowHeadersColor": "Black",
+                "RowHeadersBorder": {
+                  "Pen": {
+                    "Color": "DimGray",
+                    "Style": "Solid",
+                    "Width": 1
+                  },
+                  "DrawLeft": true,
+                  "DrawTop": true,
+                  "DrawRight": true,
+                  "DrawBottom": true
+                },
+                "ColumnHeadersBorder": {
+                  "Pen": {
+                    "Color": "DimGray",
+                    "Style": "Solid",
+                    "Width": 1
+                  },
+                  "DrawLeft": true,
+                  "DrawTop": true,
+                  "DrawRight": true,
+                  "DrawBottom": true
+                },
+                "Columns": [{
+                    "Type": "TextBoxColumn",
+                    "Guid": "73d5469e-6bfb-2c99-d7fc-9932430b8cea",
+                    "Label": "ITEM",
+                    "HeaderAlignment": "Center",
+                    "CellAlignment": "Left",
+                    "HeaderBackColor": "Transparent",
+                    "HeaderForeColor": "Black",
+                    "BackgroundColor": "Transparent",
+                    "CellBackColor": "White",
+                    "CellForeColor": "Black",
+                    "CellBorderColor": "LightGray",
+                    "UseWordWrap": false,
+                    "Width": 210.91657076991262,
+                    "Font": {
+                      "Family": "Arial Black",
+                      "Size": 10,
+                      "Style": "Regular"
+                    },
+                    "Cells": [{
+                        "Name": "",
+                        "Text": ""
+                      },{
+                        "Name": "",
+                        "Text": ""
+                      },{
+                        "Name": "",
+                        "Text": ""
+                      },{
+                        "Name": "",
+                        "Text": ""
+                      },{
+                        "Name": "",
+                        "Text": ""
+                      }]
+                  },{
+                    "Type": "ComboBoxColumn",
+                    "Guid": "e4b976cf-2e5d-d353-4f1e-3aeb72434ee0",
+                    "Label": "SIZE",
+                    "HeaderAlignment": "Center",
+                    "CellAlignment": "Left",
+                    "HeaderBackColor": "Transparent",
+                    "HeaderForeColor": "Black",
+                    "BackgroundColor": "Transparent",
+                    "CellBackColor": "White",
+                    "CellForeColor": "Black",
+                    "CellBorderColor": "LightGray",
+                    "UseWordWrap": false,
+                    "Width": 64.7130617106361,
+                    "Font": {
+                      "Family": "Arial Black",
+                      "Size": 10,
+                      "Style": "Regular"
+                    },
+                    "Cells": [{
+                        "Name": "",
+                        "SelectedIndex": 0
+                      },{
+                        "Name": "",
+                        "SelectedIndex": 0
+                      },{
+                        "Name": "",
+                        "SelectedIndex": 0
+                      },{
+                        "Name": "",
+                        "SelectedIndex": 0
+                      },{
+                        "Name": "",
+                        "SelectedIndex": 0
+                      }],
+                    "ComboBoxOptions": ["S","M","L","XL"]
+                  },{
+                    "Type": "TextBoxColumn",
+                    "Guid": "c25cd6d5-634f-2e5c-d9b0-5ec7e48632f9",
+                    "Label": "COLOR",
+                    "HeaderAlignment": "Center",
+                    "CellAlignment": "Center",
+                    "HeaderBackColor": "Transparent",
+                    "HeaderForeColor": "Black",
+                    "BackgroundColor": "Transparent",
+                    "CellBackColor": "White",
+                    "CellForeColor": "Black",
+                    "CellBorderColor": "LightGray",
+                    "UseWordWrap": false,
+                    "Width": 121.31214687478594,
+                    "Font": {
+                      "Family": "Arial Black",
+                      "Size": 10,
+                      "Style": "Regular"
+                    },
+                    "Cells": [{
+                        "Name": "",
+                        "Text": ""
+                      },{
+                        "Name": "",
+                        "Text": ""
+                      },{
+                        "Name": "",
+                        "Text": ""
+                      },{
+                        "Name": "",
+                        "Text": ""
+                      },{
+                        "Name": "",
+                        "Text": ""
+                      }]
+                  },{
+                    "Type": "NumberBoxColumn",
+                    "Guid": "e18eb8bf-9726-b552-bd64-bbd3552ce812",
+                    "Label": "QTY",
+                    "HeaderAlignment": "Center",
+                    "CellAlignment": "Center",
+                    "HeaderBackColor": "Transparent",
+                    "HeaderForeColor": "Black",
+                    "BackgroundColor": "Transparent",
+                    "CellBackColor": "White",
+                    "CellForeColor": "Black",
+                    "CellBorderColor": "LightGray",
+                    "UseWordWrap": false,
+                    "Width": 62.37341757484219,
+                    "Font": {
+                      "Family": "Arial Black",
+                      "Size": 10,
+                      "Style": "Regular"
+                    },
+                    "Cells": [{
+                        "Name": "",
+                        "Number": 2
+                      },{
+                        "Name": "",
+                        "Number": 0
+                      },{
+                        "Name": "",
+                        "Number": 0
+                      },{
+                        "Name": "",
+                        "Number": 0
+                      },{
+                        "Name": "",
+                        "Number": 0
+                      }],
+                    "CurrencyLabelFormat": "Code",
+                    "Currency": "USD",
+                    "UnitLabel": "",
+                    "UnitAlignment": "Suffix",
+                    "NumberType": "Decimal",
+                    "ThousandSeparator": "None",
+                    "DecimalDigits": 0
+                  },{
+                    "Type": "NumberBoxColumn",
+                    "Guid": "ef5ae8b7-6378-08db-f850-9faf95d762f4",
+                    "Label": "PRICE",
+                    "HeaderAlignment": "Center",
+                    "CellAlignment": "Left",
+                    "HeaderBackColor": "Transparent",
+                    "HeaderForeColor": "Black",
+                    "BackgroundColor": "Transparent",
+                    "CellBackColor": "White",
+                    "CellForeColor": "Black",
+                    "CellBorderColor": "LightGray",
+                    "UseWordWrap": false,
+                    "Width": 128.85971561862092,
+                    "Font": {
+                      "Family": "Arial Black",
+                      "Size": 10,
+                      "Style": "Regular"
+                    },
+                    "Cells": [{
+                        "Name": "",
+                        "Number": 2
+                      },{
+                        "Name": "",
+                        "Number": 0
+                      },{
+                        "Name": "",
+                        "Number": 0
+                      },{
+                        "Name": "",
+                        "Number": 0
+                      },{
+                        "Name": "",
+                        "Number": 0
+                      }],
+                    "CurrencyLabelFormat": "Symbol",
+                    "Currency": "USD",
+                    "UnitLabel": "",
+                    "UnitAlignment": "Prefix",
+                    "NumberType": "Currency",
+                    "ThousandSeparator": "Comma",
+                    "DecimalDigits": 2
+                  },{
+                    "Type": "LabelColumn",
+                    "Guid": "befc9985-8c89-788b-90b8-9e9a9214e66c",
+                    "Label": "TOTAL",
+                    "HeaderAlignment": "Center",
+                    "CellAlignment": "Right",
+                    "HeaderBackColor": "Transparent",
+                    "HeaderForeColor": "Black",
+                    "BackgroundColor": "Transparent",
+                    "CellBackColor": "White",
+                    "CellForeColor": "Black",
+                    "CellBorderColor": "LightGray",
+                    "UseWordWrap": false,
+                    "Width": 111.82508745120218,
+                    "Font": {
+                      "Family": "Arial Black",
+                      "Size": 10,
+                      "Style": "Regular"
+                    },
+                    "Cells": [4,0,0,0,0],
+                    "Expression": "{ Col('QTY') * Col('PRICE') }",
+                    "Prefix": "$",
+                    "Suffix": "",
+                    "DecimalDigits": 2,
+                    "ThousandSeparator": "Comma"
+                  }],
+                "UseTotals": true,
+                "UseWordWrap": false,
+                "TotalsRowHeader": "",
+                "RowLabelsWidth": 175,
+                "TotalsRowHeaderHorizontalAlignment": "Left",
+                "TotalsRowHeaderVerticalAlignment": "Top",
+                "TotalsRowHeaderColor": "Black",
+                "TotalsValuesWidth": 73.2621513944223,
+                "TotalsHeadersWidth": 131.05784860557768,
+                "TotalsFields": [{
+                    "Guid": "5469ee67-7a1f-1eb9-add2-13942f04f267",
+                    "Header": "SUBTOTAL",
+                    "Name": "",
+                    "HeaderAlignment": "Right",
+                    "ValueAlignment": "Left",
+                    "HeaderColor": "Black",
+                    "Expression": "{ Sum(Col('TOTAL')) }",
+                    "Prefix": "$",
+                    "Suffix": "",
+                    "DecimalDigits": 2,
+                    "ThousandSeparator": "Comma"
+                  },{
+                    "Guid": "37396af0-54ae-4e56-56b4-babf4fbc5a2f",
+                    "Header": "TAXES",
+                    "Name": "",
+                    "HeaderAlignment": "Right",
+                    "ValueAlignment": "Left",
+                    "HeaderColor": "Black",
+                    "Expression": "15",
+                    "Prefix": "",
+                    "Suffix": "%",
+                    "DecimalDigits": 0,
+                    "ThousandSeparator": "None"
+                  },{
+                    "Guid": "c84caaae-e768-53e7-5ee4-28eb24c67767",
+                    "Header": "GRAND TOTAL",
+                    "Name": "",
+                    "HeaderAlignment": "Right",
+                    "ValueAlignment": "Left",
+                    "HeaderColor": "Black",
+                    "Expression": "{ Total('SUBTOTAL') * (1 + Total('TAXES') / 100) }",
+                    "Prefix": "$",
+                    "Suffix": "",
+                    "DecimalDigits": 2,
+                    "ThousandSeparator": "None"
+                  }]
+              },{
+                "Type": "SingleSelectionElement",
+                "Guid": "da43b850-ef51-3e8a-3857-c0f136dc578c",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 0,
+                  "Y": 855,
+                  "Width": 220.32,
+                  "Height": 120,
+                  "MinWidth": 220.32,
+                  "MinHeight": 90,
+                  "MaxWidth": 220.32,
+                  "MaxHeight": 120
+                },
+                "Name": "DeliveryMethod",
+                "Label": {
+                  "Value": "DELIVERY METHOD",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Top",
+                  "VerticalAlignment": "Top",
+                  "Width": 150
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "Tooltip": "",
+                "Required": false,
+                "Font": {
+                  "Family": "Arial",
+                  "Size": 12,
+                  "Style": "Regular"
+                },
+                "Columns": 2,
+                "BackgroundColor": "White",
+                "TextColor": "Black",
+                "CheckColor": "Black",
+                "BorderColor": "LightGray",
+                "Options": ["Pick Up","Drop Off","Shipping"],
+                "UseCustomOption": false,
+                "CustomOptionText": "",
+                "SelectedOption": "Drop Off",
+                "Prefix": "",
+                "Suffix": ""
+              },{
+                "Type": "SingleSelectionElement",
+                "Guid": "bceb0647-e45d-748e-1613-6bee09f4c74e",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 220.32,
+                  "Y": 855,
+                  "Width": 165.24,
+                  "Height": 120,
+                  "MinWidth": 165.24,
+                  "MinHeight": 120,
+                  "MaxWidth": 165.24,
+                  "MaxHeight": 120
+                },
+                "Name": "PaymentType",
+                "Label": {
+                  "Value": "PAYMENT TYPE",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Top",
+                  "VerticalAlignment": "Top",
+                  "Width": 150
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "Tooltip": "",
+                "Required": false,
+                "Font": {
+                  "Family": "Arial",
+                  "Size": 12,
+                  "Style": "Regular"
+                },
+                "Columns": 2,
+                "BackgroundColor": "White",
+                "TextColor": "Black",
+                "CheckColor": "Black",
+                "BorderColor": "LightGray",
+                "Options": ["Cash","PayPal","Card","Check"],
+                "UseCustomOption": true,
+                "CustomOptionText": "",
+                "SelectedOption": "Cash",
+                "Prefix": "",
+                "Suffix": ""
+              },{
+                "Type": "SignatureElement",
+                "Guid": "c2560204-d292-98d0-0cf4-1e770c85120e",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 8,
+                  "Top": 8,
+                  "Right": 8,
+                  "Bottom": 8
+                },
+                "Geometry": {
+                  "X": 440.64,
+                  "Y": 855,
+                  "Width": 275.36,
+                  "Height": 85,
+                  "MinWidth": 165.24,
+                  "MinHeight": 45,
+                  "MaxWidth": 275.36,
+                  "MaxHeight": 85
+                },
+                "Name": "Signature",
+                "Label": {
+                  "Value": "SIGNATURE",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "Alignment": "Top",
+                  "VerticalAlignment": "Center",
+                  "Width": 150
+                },
+                "Description": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 9,
+                    "Style": "Regular"
+                  },
+                  "Color": "Gray"
+                },
+                "SignaturePanelWidth": 259,
+                "SignaturePanelHeight": 38,
+                "PenColor": "Black",
+                "InsertedImage": {
+                  "AspectRatio": false,
+                  "Stretch": false,
+                  "NaturalWidth": 0,
+                  "NaturalHeight": 0,
+                  "HorizontalAlignment": "Center",
+                  "VerticalAlignment": "Center"
+                },
+                "InsertedText": {
+                  "Font": {
+                    "Family": "Segoe UI",
+                    "Size": 20,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "HorizontalAlignment": "Center"
+                },
+                "SpecialFont": "Teddy Bear",
+                "CurrentSignatureMode": "Type"
+              },{
+                "Type": "ButtonElement",
+                "Guid": "e66b69a5-e809-fb06-f19e-6e27659f9d7c",
+                "Visible": true,
+                "ReadOnly": false,
+                "Padding": {
+                  "Left": 4,
+                  "Top": 0,
+                  "Right": 4,
+                  "Bottom": 0
+                },
+                "Geometry": {
+                  "X": 220.32,
+                  "Y": 975,
+                  "Width": 275.4,
+                  "Height": 50,
+                  "MinWidth": 110.16,
+                  "MinHeight": 45,
+                  "MaxWidth": 275.4,
+                  "MaxHeight": 50
+                },
+                "Name": "Button",
+                "Tooltip": "",
+                "Text": {
+                  "Value": "Submit",
+                  "Font": {
+                    "Family": "Arial Black",
+                    "Size": 12,
+                    "Style": "Regular"
+                  },
+                  "Color": "Black",
+                  "BackgroundColor": "255,222,222,222"
+                },
+                "ButtonType": "SendForm",
+                "FormSendURL": "http://localhost:8080/post",
+                "ButtonSendType": "XFDF",
+                "SubmissionMessage": "Thank you! Your submission has been sent."
+              }]
+          }],
+        "Settings": {
+          "Label": {
+            "Font": {
+              "Family": "Arial Black",
+              "Size": 12,
+              "Style": "Regular"
+            },
+            "Color": "Black",
+            "Alignment": "Left",
+            "VerticalAlignment": "Center",
+            "Width": 150
+          },
+          "Description": {
+            "Font": {
+              "Family": "Segoe UI",
+              "Size": 9,
+              "Style": "Regular"
+            },
+            "Color": "Gray"
+          },
+          "InnerText": {
+            "Font": {
+              "Family": "Arial",
+              "Size": 12,
+              "Style": "Regular"
+            },
+            "Color": "Black",
+            "BackgroundColor": "White",
+            "BorderColor": "LightGray",
+            "CheckColor": "Black",
+            "BorderWeight": "Thin",
+            "ContentAlignment": "Left"
+          },
+          "TimeFormat": "HH:MM:ss",
+          "DateFormat": "dd.mm.yyyy HH:MM",
+          "DateTimeFormat": "m/d/yy h:MM tt",
+          "DecimalDigits": 2,
+          "GridColumns": "13",
+          "GridVerticalStep": 5,
+          "Currency": "USD",
+          "CurrencyFormat": "Code",
+          "UnitAlignment": "Prefix",
+          "ThousandSeparator": "Comma",
+          "Padding": {
+            "Left": 8,
+            "Top": 8,
+            "Right": 8,
+            "Bottom": 8
+          }
+        },
+        "Guid": "bfbdf007-e896-e2e5-0bad-c9c25a2ba717",
+        "FormName": "Form",
+        "VersionKey": "",
+        "UserId": "",
+        "AdditionalFields": []
+      }
+    }
+  }
+}

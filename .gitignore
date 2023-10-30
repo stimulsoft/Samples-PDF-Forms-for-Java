@@ -1,0 +1,34 @@
+# IDEs and editors
+.vs/
+.vscode/
+.idea/
+*.user
+*.pubxml
+*.PublishSettings
+
+# Compiled files
+/**/.angular/cache
+/**/package-lock.json
+/*/bin/
+/*/obj/
+/*/wwwroot/
+
+# Packages
+/packages/
+/*/packages/
+/**/node_modules/
+/**/node_modules_test/
+
+# Other files
+.DS_Store
+Thumbs.db
+*-test.cmd
+*.Test.csproj
+*.Test.sln
+
+samples/target
+jsfstimulsoft/target
+webdesigner/target
+webviewer/target
+target
+samples/bin
