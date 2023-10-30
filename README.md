@@ -4,8 +4,8 @@
 
 ## Overview
 This repository contains a set of examples in different folders:
-* [Parsing Forms Submission Result Spring Boot](https://github.com/stimulsoft/Samples-Reports.JAVA-for-Java-SE-and-Jakarta-EE/tree/master/Parsing%20Forms%20Submission%20Result%20Spring%20Boot)
-* [Parsing Forms Submission Results](https://github.com/stimulsoft/Samples-Reports.JAVA-for-Java-SE-and-Jakarta-EE/tree/master/Parsing%20Forms%20Submission%20Results)
+* [Parsing Forms Submission Result Spring Boot](https://github.com/stimulsoft/Samples-Forms.WEB-for-Java/tree/main/Parsing%20Forms%20Submission%20Result%20Spring%20Boot)
+* [Parsing Forms Submission Results](https://github.com/stimulsoft/Samples-Forms.WEB-for-Java/tree/main/Parsing%20Forms%20Submission%20Results)
 
 ## Running samples
 In order to start simply open the requered folder (.project file inside) with Eclipse IDE for Java Developers.
