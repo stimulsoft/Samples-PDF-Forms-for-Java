@@ -17,7 +17,7 @@ Stimulsoft Forms is a component for the interactive collection and processing of
 * [Live Demo](https://demo.stimulsoft.com/?viewmode=forms)
 * [Product Page](https://www.stimulsoft.com/en/products/forms)
 * [Free Download](https://www.stimulsoft.com/en/downloads)
-* [NuGet](https://www.nuget.org/packages/Stimulsoft.Forms.Web)
+* [NuGet](https://www.nuget.org/packages/Stimulsoft.PDF.Forms)
 * [NPM](https://www.npmjs.com/package/stimulsoft-forms)
 * [Documentation](https://www.stimulsoft.com/en/documentation/online/programming-manual/forms_web.htm)
 * [License](LICENSE.md)
